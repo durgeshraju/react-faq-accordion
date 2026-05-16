@@ -1,9 +1,8 @@
 import './App.css'
-
 const App = () => {
   return (
     <>
-      <main class="page">
+      <main className="page">
         <h1>Accordion App</h1>
       </main>
     </>
